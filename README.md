@@ -19,6 +19,4 @@ You can drop error-monkey at different places in your code to make sure
 that your server can gracefully restart in the case of uncaught error events.
 
 You want a graceful restart so that outstanding connections are not
-unceremoniously dropped.
-
- 
+unceremoniously dropped. 
