@@ -1,6 +1,6 @@
 {
   "name": "error-monkey",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An event emitter that emits error events for use in testing your server for resilience.",
   "main": "index.js",
   "scripts": {
